@@ -1,5 +1,4 @@
 # Valgrind
----
 
 ## Overview
 
@@ -40,5 +39,5 @@ The following commands were run in the directory and the detected two bugs were 
 * valgrind --tool=helgrind ./app/shell-app
 * valgrind --leak-check=full ./app/shell-app
 
-The valgrind outputs before and after fixing the bugs are added to the repository as Before_fixing_bugs and After_fixing_bugs.
-KCachegrind output is also attached to the repository as Kcachegrind.
+The valgrind outputs before and after fixing the bugs are added to the repository as Before_fixing_bugs.txt and After_fixing_bugs.txt.
+KCachegrind output is also attached to the repository as Kcachegrind.png.
